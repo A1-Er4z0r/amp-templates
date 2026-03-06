@@ -1,36 +1,12 @@
 {
   "ServerName": "{{ServerName}}",
-  "MessageOfTheDay": "{{MessageOfTheDay}}",
-  "Password": "{{Password}}",
-  "MaxPlayers": {{MaxPlayers}},
-
+  "MessageOfTheDay": "Welcome to the server",
+  "Password": "",
+  "MaxPlayers": 4,
   "Network": {
-    "GamePort": {{GamePort}},
-    "QueryPort": {{QueryPort}},
-    "BlobSyncPort": {{BlobSyncPort}}
+    "GamePort": 8766,
+    "QueryPort": 27016,
+    "BlobSyncPort": 9700
   },
-
-  "GameMode": "{{GameMode}}",
-
-  "CustomGameModeSettings": {
-    "EnableEnemies": {{EnableEnemies}},
-    "EnemyHealthMultiplier": {{EnemyHealthMultiplier}},
-    "EnemyDamageMultiplier": {{EnemyDamageMultiplier}},
-    "EnemyArmorMultiplier": {{EnemyArmorMultiplier}},
-    "EnemyAggressionMultiplier": {{EnemyAggressionMultiplier}},
-
-    "DayLengthMultiplier": {{DayLengthMultiplier}},
-    "SeasonLengthMultiplier": {{SeasonLengthMultiplier}},
-
-    "RainFrequencyMultiplier": {{RainFrequencyMultiplier}},
-    "SnowFrequencyMultiplier": {{SnowFrequencyMultiplier}},
-
-    "ResourceScarcityMultiplier": {{ResourceScarcityMultiplier}},
-
-    "AllowCheats": {{AllowCheats}},
-    "BuildingResistanceMultiplier": {{BuildingResistanceMultiplier}},
-
-    "CreativeMode": {{CreativeMode}},
-    "GodMode": {{GodMode}}
-  }
+  "GameMode": "campaign"
 }
