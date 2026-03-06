@@ -1,7 +1,7 @@
 Meta.DisplayName=Desynced Dedicated Server
 Meta.Description=Dedicated server for Desynced automation strategy game
 Meta.Arch=x86_64
-Meta.Author=A1-Er4z0r-
+Meta.Author="A1-Er4z0r"
 Meta.URL=https://store.steampowered.com/app/1450900/Desynced/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=cubecoders/ampbase:wine
