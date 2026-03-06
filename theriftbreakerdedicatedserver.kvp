@@ -1,7 +1,7 @@
 Meta.DisplayName=TheRiftbreakerDedicatedServer
 Meta.Description=Dedicated server for The Riftbreaker co-op multiplayer
 Meta.Arch=x86_64
-Meta.Author=Er4z0r - Made with AMP Config Generator
+Meta.Author=A1 Er4z0r
 Meta.URL=https://store.steampowered.com/app/780310/The_Riftbreaker/
 Meta.MinAMPVersion=2.4.6.6
 Meta.SpecificDockerImage=
