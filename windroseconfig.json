@@ -1,0 +1,39 @@
+{
+  "Settings": [
+    {
+      "DisplayName": "Server Name",
+      "Category": "Server Settings",
+      "FieldName": "ServerName",
+      "InputType": "text",
+      "DefaultValue": "My Windrose Server"
+    },
+    {
+      "DisplayName": "Max Players",
+      "Category": "Server Settings",
+      "FieldName": "MaxPlayers",
+      "InputType": "number",
+      "DefaultValue": "4"
+    },
+    {
+      "DisplayName": "Password",
+      "Category": "Server Settings",
+      "FieldName": "Password",
+      "InputType": "text",
+      "DefaultValue": ""
+    },
+    {
+      "DisplayName": "World Name",
+      "Category": "World Settings",
+      "FieldName": "WorldName",
+      "InputType": "text",
+      "DefaultValue": "My World"
+    },
+    {
+      "DisplayName": "Difficulty",
+      "Category": "World Settings",
+      "FieldName": "Difficulty",
+      "InputType": "number",
+      "DefaultValue": "1"
+    }
+  ]
+}
