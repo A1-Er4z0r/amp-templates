@@ -1,7 +1,7 @@
 [
     {
         "UpdateStageName": "Install Windrose Server",
-        "UpdateSourcePlatform": "Windows",
+        "UpdateSourcePlatform": "All",
         "UpdateSource": "SteamCMD",
         "UpdateSourceData": "4129620",
         "UpdateSourceArgs": "3041230",
