@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "Install Windrose Server",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "4129620",
+        "UpdateSourceArgs": "3041230",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
