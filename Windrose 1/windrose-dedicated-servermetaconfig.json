@@ -1,0 +1,12 @@
+[
+    {
+        "ConfigFile": "R5/Saved/SaveProfiles/Default/ServerDescription.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    },
+    {
+        "ConfigFile": "R5/Saved/SaveProfiles/Default/RocksDB/*/Worlds/*/WorldDescription.json",
+        "ConfigType": "json",
+        "AutoMap": true
+    }
+]

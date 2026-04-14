@@ -1,0 +1,108 @@
+[
+  {
+    "DisplayName": "Server Name",
+    "Category": "Server",
+    "Description": "Name shown in server browser",
+    "FieldName": "ServerName",
+    "InputType": "text",
+    "DefaultValue": "My Windrose Server"
+  },
+  {
+    "DisplayName": "Invite Code",
+    "Category": "Server",
+    "Description": "Code players use to join the server",
+    "FieldName": "InviteCode",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+  {
+    "DisplayName": "Server Note",
+    "Category": "Server",
+    "Description": "Description shown to players",
+    "FieldName": "ServerNote",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+  {
+    "DisplayName": "Enable Password Protection",
+    "Category": "Server",
+    "Description": "Require password to join",
+    "FieldName": "EnablePassword",
+    "InputType": "checkbox",
+    "DefaultValue": "false"
+  },
+  {
+    "DisplayName": "Server Password",
+    "Category": "Server",
+    "Description": "Password required if enabled",
+    "FieldName": "Password",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+  {
+    "DisplayName": "Max Players",
+    "Category": "Server",
+    "Description": "Maximum number of players",
+    "FieldName": "MaxPlayers",
+    "InputType": "number",
+    "DefaultValue": "8"
+  },
+
+  {
+    "DisplayName": "World Name",
+    "Category": "World",
+    "Description": "Name of the world save",
+    "FieldName": "WorldName",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+  {
+    "DisplayName": "World Island ID",
+    "Category": "World",
+    "Description": "Unique world identifier",
+    "FieldName": "WorldIslandId",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+  {
+    "DisplayName": "Seed",
+    "Category": "World",
+    "Description": "World generation seed",
+    "FieldName": "Seed",
+    "InputType": "text",
+    "DefaultValue": ""
+  },
+
+  {
+    "DisplayName": "Difficulty",
+    "Category": "Gameplay",
+    "Description": "Game difficulty level",
+    "FieldName": "Difficulty",
+    "InputType": "number",
+    "DefaultValue": "1"
+  },
+  {
+    "DisplayName": "Enemy Strength Multiplier",
+    "Category": "Gameplay",
+    "Description": "Multiplier for enemy strength",
+    "FieldName": "EnemyStrengthMultiplier",
+    "InputType": "number",
+    "DefaultValue": "1.0"
+  },
+  {
+    "DisplayName": "Resource Rate",
+    "Category": "Gameplay",
+    "Description": "Resource gathering multiplier",
+    "FieldName": "ResourceRate",
+    "InputType": "number",
+    "DefaultValue": "1.0"
+  },
+  {
+    "DisplayName": "Day Length",
+    "Category": "Gameplay",
+    "Description": "Length of in-game day cycle",
+    "FieldName": "DayLength",
+    "InputType": "number",
+    "DefaultValue": "1.0"
+  }
+]

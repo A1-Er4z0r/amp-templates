@@ -1,0 +1,65 @@
+[
+    {
+        "DisplayName": "Server Name",
+        "Category": "Server",
+        "FieldName": "ServerName",
+        "InputType": "text",
+        "DefaultValue": "My Windrose Server"
+    },
+    {
+        "DisplayName": "Invite Code",
+        "Category": "Server",
+        "FieldName": "InviteCode",
+        "InputType": "text",
+        "DefaultValue": ""
+    },
+    {
+        "DisplayName": "Server Note",
+        "Category": "Server",
+        "FieldName": "ServerNote",
+        "InputType": "text",
+        "DefaultValue": ""
+    },
+    {
+        "DisplayName": "Enable Password Protection",
+        "Category": "Server",
+        "FieldName": "EnablePassword",
+        "InputType": "checkbox",
+        "DefaultValue": "false"
+    },
+    {
+        "DisplayName": "Server Password",
+        "Category": "Server",
+        "FieldName": "Password",
+        "InputType": "text",
+        "DefaultValue": ""
+    },
+    {
+        "DisplayName": "Max Players",
+        "Category": "Server",
+        "FieldName": "MaxPlayers",
+        "InputType": "number",
+        "DefaultValue": "8"
+    },
+    {
+        "DisplayName": "World Name",
+        "Category": "World",
+        "FieldName": "WorldName",
+        "InputType": "text",
+        "DefaultValue": ""
+    },
+    {
+        "DisplayName": "World Island ID",
+        "Category": "World",
+        "FieldName": "WorldIslandId",
+        "InputType": "text",
+        "DefaultValue": ""
+    },
+    {
+        "DisplayName": "Difficulty",
+        "Category": "World",
+        "FieldName": "Difficulty",
+        "InputType": "number",
+        "DefaultValue": "1"
+    }
+]
