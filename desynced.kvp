@@ -1,8 +1,0 @@
-DisplayName=Desynced Dedicated Server
-Description=Dedicated server for Desynced automation strategy game
-AppID=desynced
-LaunchExecutable=serverfiles/Desynced/Binaries/Win64/DedicatedServerLauncher.exe
-WorkingDirectory=serverfiles/Desynced/Binaries/Win64
-ConsoleType=StdIO
-SupportsWindows=True
-SupportsLinux=False

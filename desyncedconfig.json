@@ -1,8 +1,0 @@
-{
-  "UpdateSource": "SteamCMD",
-  "SteamAppID": "2943070",
-  "SteamLoginAnonymous": true,
-  "InstallDir": "serverfiles",
-  "Executable": "Desynced/Binaries/Win64/DedicatedServerLauncher.exe",
-  "CommandLineArgs": "-log -Port={{Port}}"
-}
